@@ -1,18 +1,18 @@
 # Clone do Spotify
 <div align="center">
-<img src="src/img/" width="2000px" alt="Imagem do site" title="Imagem do site"/>
+<img src="src/img/site.png" width="2000px" alt="Imagem do site" title="Imagem do site"/>
 </div>
 
 ## Descrição
-Em elaboração...
+O Clone do Spotify é uma emocionante jornada para recriar a renomada plataforma de streaming de música que cativa milhões de pessoas ao redor do mundo. Com dedicação e perícia, este projeto busca trazer a magia da música para nossos usuários, oferecendo uma experiência similar à do Spotify original.
 
 ## Status do projeto
-Projeto em andamento.
+Projeto concluído.
 
 ## Pré-requisitos
 
-- HTML;
-- Tailwind CSS.
+- HTML5;
+- Tailwind CSS (v3.3.3 ou superior).
 
 ## Instalando
 
