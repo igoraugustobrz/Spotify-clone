@@ -25,7 +25,7 @@ $ git clone https://github.com/igoraugustobrz/Spotify-clone
 2. Navegue até o diretório do projeto.
 
 ```
-$ cd Portfolio
+$ cd Spotify Clone
 ```
 
 ## Contribuindo
